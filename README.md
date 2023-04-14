@@ -6,10 +6,10 @@ Operating system (OS) hardening is the process of securing an operating system b
 
 ## Contents
 
-- 1.0 Android hardening
-- 2.0 Windows hardening (coming soon)
-- 3.0 Linux hardening (coming soon)
-- 3.0 IOS (coming soon)
+- 1.0 Android
+- 2.0 Windows (coming soon)
+- 3.0 Linux (coming soon)
+- 4.0 IOS (in the future)
 
 ## Getting Started
 
@@ -145,15 +145,17 @@ Android is a mobile operating system based on the Linux kernel and developed by 
 
 - Each update or patch can implement new features, which can potentially introduce vulnerabilities that could put your device at risk. Stay up-to-date with system changes.
 
-**5.	Always use a strong and unique password for your Google account to help prevent unauthorized access to Google services and data.**
+**5.	Always use a strong and unique password for your Google account** to help prevent unauthorized access to Google services and data.
 
-**6.	Regularly review the security settings of the Google account associated with the device to ensure that they are appropriately configured.**
+**6.	Regularly review the security settings of the Google account** associated with the device to ensure that they are appropriately configured.
 
-**7.	Be cautious when connecting to public Wi-Fi. Avoid connecting to public Wi-Fi networks that are not secured with a password or that are known to be untrustworthy.**
+**7.	Be cautious when connecting to public Wi-Fi.**
 
-**8.	Avoid rooting or jailbreaking the device, as it can weaken its security and allow malicious apps to gain root access.**
+- Avoid connecting to public Wi-Fi networks that are not secured with a password or that are known to be untrustworthy.
 
-**9.	Regularly back up important data to a secure location, such as a cloud storage service, to ensure that it can be recovered in the event of data loss or device failure.**
+**8.	Avoid rooting or jailbreaking the device,** as it can weaken its security and allow malicious apps to gain root access.
+
+**9.	Regularly back up important data to a secure location,** such as a cloud storage service, to ensure that it can be recovered in the event of data loss or device failure.
 
 ### Sources
 
