@@ -39,6 +39,8 @@ Android is a mobile operating system based on the Linux kernel and developed by 
 
 - The most crucial aspect of this point is the core of your device - its system. Generally, every new version of Android is better and more secure than the previous one, as developers update features and fix vulnerabilities. However, sometimes an update can fix one vulnerability and open another one in a different place. In general, keeping your device and all your applications up-to-date is the best way to secure your device.
 
+- Enable auto update of software including system and your additional software.
+
 **4.	Don't install unnecessary software.** 
 
 - Every additional piece of software is another possible attack vector. The less the attack surface, the lower the possibility of an attack. Keep things simple and tidy.
@@ -107,13 +109,33 @@ Android is a mobile operating system based on the Linux kernel and developed by 
 
 - This step will help you reduce the amount of personal data stored on third-party servers.
 
-**21.	Consider using virtual machine or sandboxing software.**
+**21.	Use virtualization.**
 
-- You can run potentially risky applications in a separate and isolated environment.
+- Consider using virtual machine or sandboxing software to run potentially risky applications in a separate and isolated environment.
 
-**22.	Implement Data Loss Prevention (DLP) software solution.**
+**22.	Disable developer options, or make sure its disabled.**
+
+**23.	Disable bootloader feauture, or make sure its disabled.**
+
+**24.	Enable USB data block feature.**
+
+- This will prevent external devices from connecting to your system, which can sucesfully isolate your device from data transmission. This option will make charging your device from public places safe.
+
+**25.	Implement Data Loss Prevention (DLP) software solution.**
 
 - DLP's main goal is to prevent your data from leaking or getting lost.
+
+## Enterprise solutions
+
+1.	Android Enterprise provides a suite of management solutions that includes features such as device encryption, secure boot, and network security protocols. It also includes a feature called "Work Profile," which enables users to keep their work and personal data separate on the same device.
+
+2.	Samsung Knox is a security solution that offers features such as secure boot, device encryption, and biometric authentication. It also includes a feature called "Secure Folder," which enables users to keep their work and personal data separate on the same device.
+
+3.	BlackBerry Enterprise Mobility Suite offers a range of security features, including secure boot, device encryption, and containerization of work apps and data. It also includes a feature called "BlackBerry Dynamics," which enables secure app development and management.
+
+4.	Workspace ONE is a mobile device management solution that offers features such as secure boot, device encryption, and remote wipe capabilities. It also includes a feature called "Workspace ONE UEM," which enables the management of multiple devices and apps from a single console.
+
+5.	MobileIron is a mobile device management solution that offers features such as secure boot, device encryption, and containerization of work apps and data. It also includes a feature called "MobileIron Threat Defense," which provides real-time protection against malware and other threats.
 
 ## Additional security practices
 
