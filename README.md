@@ -19,7 +19,7 @@ Operating system (OS) hardening is the process of securing an operating system b
 
 ## Getting Started
 
-To use this study guide, simply clone the repository to your local machine or download the .docx or .pdf file. The guide is provided in PDF format, which can be viewed on any device with a PDF reader.
+To use this study guide, simply clone the repository to your local machine or go to choosen OS .md file.
 
 ## Contributing
 
