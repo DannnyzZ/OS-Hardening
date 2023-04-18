@@ -34,7 +34,7 @@ Android is a mobile operating system based on the Linux kernel and developed by 
 
 **6.	Secure your device with a lock screen.** 
 
-- There are many locking options, including biometry, face recognition, pattern, pin, password, token, and more. Choose the ideal way to lock your device that will fit your needs. Remember, each of the methods mentioned above may be tampered with in one way or another. If it were up to me, I would choose biometry to unlock and a password for privileged access to the device.
+- There are many locking options, including biometry, face recognition, pattern, pin, password, token, and more. Choose the ideal way to lock your device that will fit your needs. Remember, each of the methods mentioned above may be tampered with in one way or another. If it were up to me, I would choose biometry to unlock and an alphanumerical password for privileged access to the device.
 
 **7.	Enable encryption.** 
 
@@ -150,7 +150,7 @@ Android is a mobile operating system based on the Linux kernel and developed by 
 
 - Each update or patch can implement new features, which can potentially introduce vulnerabilities that could put your device at risk. Stay up-to-date with system changes.
 
-**5.	Always use a strong and unique password for your Google account** to help prevent unauthorized access to Google services and data.
+**5.	Always use a strong and unique password for your Google account/Apple/other vendor** to help prevent unauthorized access to Google services and data.
 
 **6.	Regularly review the security settings of the Google account** associated with the device to ensure that they are appropriately configured.
 
