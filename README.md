@@ -1,3 +1,9 @@
+# WELCOME TO MY REPOSITORY
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" width="20%">
+</p>
+
 # OS Hardening
 
 This repository contains an extensive list of OS hardening practices for most popular platforms used worldwide.
@@ -14,3 +20,11 @@ Operating system (OS) hardening is the process of securing an operating system b
 ## Getting Started
 
 To use this study guide, simply clone the repository to your local machine or download the .docx or .pdf file. The guide is provided in PDF format, which can be viewed on any device with a PDF reader.
+
+## Contributing
+
+If you notice any errors or have suggestions for improving the study guide, feel free to submit a pull request or open an issue. Your contributions are greatly appreciated. The study guide is still during the editing process, and will be updated after every major update. The project itself will change through time, as more and more features will be added to it.
+
+## License
+
+This study guide is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.
